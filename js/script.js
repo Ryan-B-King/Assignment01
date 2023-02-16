@@ -65,19 +65,81 @@
 
 // STEP 09
 
-    let nothing = null;
-    console.log(nothing);
+    // let nothing = null;
+    // console.log(nothing);
 
 // STEP 10
+
+    // let testString = 'string literal', testNum = 16, trueOrFalse = false, testObject = new function(){}, testUndefined;
+
+    // console.log(typeof testString, typeof testNum, typeof trueOrFalse, typeof testObject, typeof testUndefined);
+
 // STEP 11
+
+    // window.alert("Hello " + "Zak Ruvalcaba" + ", welcome to the JavaScript class!"); 
+    // window.alert("Hello " + "Ryan King" + ", welcome to the JavaScript class!");
+
+
 // STEP 12
+
+    // let name = 'Ryan King';
+    // window.alert("Hello " + name + ", welcome to the JavaScript class!");
+
 // STEP 13
+
+    // let name = 'Ryan King';
+    // let course = 'JavaScript';
+    // window.alert("Hello " + name + ", welcome to the " + course + " class!");
+
 // STEP 14
+
+    // let name = 'Zak Ruvalcaba';
+    // let course = 'JavaScript';
+    // window.alert("Hello " + name + "." + "\nWelcome to the " + course + " class!");    
+
 // STEP 15
+
+    // let name = window.prompt("What is your name?");
+    // window.alert("Hello " + name + "." + "\nWelcome to the JavaScript class!");
+
 // STEP 16
+
+    // let name = window.prompt("What is your name?");
+    // let course = window.prompt("What is the course you are taking?");
+    // window.alert("Hello " + name + "." + "\nWelcome to the " + course + " class!");
+
 // STEP 17
+
+    // let x = 10;
+    // let y = 20;
+    // console.log(x + y);
+
 // STEP 18
+
+    // let x = 20;
+    // x = x + 20;
+    // console.log(x);
+
 // STEP 19
+
+    // let x = 20;
+    // x = x * 5;
+    // console.log(x);
+
 // STEP 20
+
+    // let x = 20 % 3;
+    // x = x / 1;
+    // console.log(x);
+
 // STEP 21
+
+    // let x = 5;
+    // let y = 10;
+    // console.log(x < y && x !== y);
+
 // STEP 22
+
+    // let x = 15;
+    // let y = 1;
+    // console.log(x <= y || x === y);
